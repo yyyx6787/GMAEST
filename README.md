@@ -1,3 +1,6 @@
+
+![image](./IMG/sample.pdf)
+
 # Spatio-Temporal Graph Masked Autoencoder
 ## Requirements ##
 Pytorch = 1.7.0 and Tensorflow = 1.15.3 (crime prediction task (ST-SHN))
