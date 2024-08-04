@@ -1,5 +1,5 @@
 
-![image](./IMG/explanation.pdf)
+![image](./IMG/explanation.png)
 
 # Spatio-Temporal Graph Masked Autoencoder
 ## Requirements ##
