@@ -1,4 +1,4 @@
-# Explanation or Visualization of Denoisy Case Study #
+# Explaination or Visualization of Denoisy Case Study #
 ![image](./IMG/explaination.jpg)
 
 # Spatio-Temporal Graph Masked Autoencoder
