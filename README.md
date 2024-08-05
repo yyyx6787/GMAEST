@@ -1,6 +1,6 @@
-
-![image](./IMG/explaination.jpg)
 ## Explanation or Visualization of Denoisy Case Study ##
+![image](./IMG/explaination.jpg)
+
 # Spatio-Temporal Graph Masked Autoencoder
 ## Requirements ##
 Pytorch = 1.7.0 and Tensorflow = 1.15.3 (crime prediction task (ST-SHN))
