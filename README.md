@@ -1,5 +1,5 @@
 
-![image](./IMG/explanation.png)
+![image](./IMG/explaination.png)
 ## Explanation or Visualization of Denoisy Case Study ##
 # Spatio-Temporal Graph Masked Autoencoder
 ## Requirements ##
