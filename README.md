@@ -1,6 +1,6 @@
 
 
-# Spatio-Temporal Graph Masked Autoencoder
+# HGAurban: Heterogeneous Graph Autoencoding for Urban Spatial-Temporal Learning
 ## Requirements ##
 Pytorch = 1.7.0 and Tensorflow = 1.15.3 (crime prediction task (ST-SHN))
 
